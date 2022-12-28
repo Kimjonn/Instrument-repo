@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta htth1-equiv="X-UA-Comh1atible" content="IE=edge">
+    <meta name="viewh1ort" content="width=device-width, initial-scale=1.0">
+    <title>Instrument</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="h1reconnect" href="htth1s://fonts.googleah1is.com">
+<link rel="h1reconnect" href="htth1s://fonts.gstatic.com" crossorigin>
+<link href="htth1s://fonts.googleah1is.com/css2?family=Montserrat:wght@400;500&family=Roboto:ital,wght@0,500;1,300;1,400&dish1lay=swah1" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="flex-row">
+        <label class="logo">instrument</label>
+        <ul>
+            <li><a href="#">WHAT WE DO</a></li>
+            <li><a href="#">WHO WE ARE</a></li>
+            <li><a href="#">BEING HERE</a></li>
+            <li><a href="#">CAREER</a></li>
+        </ul>
+    </nav>
+    <div class="heading">
+        <h1>We build connected brand <br> systems from vision through <br> execution</h1>
+    </div>
+    <div class="karaplace">
+        <img src="/f43c62bc-9a19-4771-a13e-b8b0d93e6d6b_72andsunny-nyc_ISAKTINER-8376-edit.avif" class="img-karaplace" alt="" width="690px" height="500px">
+        <article class="ceo">It is with great excitement that we <br> announce Kara Place as <br> Instrument's next CEO.</article>
+        <li class="kara-read"><a href>Read more</a></li>
+    </div>
+    <div class="workerplace">
+        <img src="/f3b20989-779a-41a5-9f19-668bcbda94a5_fastco_women_thumbnail.avif" class="img-workerplace" alt="" width="690px" height="500px">
+        <article class="workerplace-text">We're proud to be recognized as a <br> Best Workplace for Women <br> Innovators by Fast Company.</article>
+        <li class="workerplace-read"><a href="#">Learn more</a></li>
+    </div>
+    <div class="whatwedo">
+        <img src="/7c872db1-8972-4a3e-b53f-9aa7d179fd4f_what-we-do.avif" class="img-whatwedo" alt="" width="690" height="500">
+        <article class="whatwedo-text">As a full-service partner to the <br> world's most ambitious <br> companies, we create <br> transformational change through <br> best-in-class digital products and <br> communications.</article>
+        <li class="whatwedo-read"><a href="#">What we do</a></li>
+    </div>
+    <div class="heading-explore">
+        <h1>Explore some of our most <br> recent work</h1>
+        <li class="ourwork-read"><a href="#">Our work</a></li>
+    </div>
+    <div class="two-img">
+        <img class="img-one" src="/71b85f31-4930-43a6-80f0-2bdad6da7420_Frame+5393.avif" alt="" width="690" height="500">
+        <img  class="img-two" src="/f2206e32-32cf-42f8-875b-245741d153c7_Group+34583.avif" alt="" width="690" height="500">
+    </div>
+    <div class="two-img-text">
+        <p class="img-one-text">Ray and Charles Eames laid the foundation for modern design <br> and created work that has transcended time. With an <br> aspiration to bring the Eameses timeless methodologies to a <br> modern audience, the Eames Institute enlisted Instrument to <br> co-create a digital platform to unveil their vast collection <br> to the world.</p>
+        <p class="img-two-text">To evolve and mature how Dropbox engages with their <br> customers, we developed a multi-year brand platform as well <br> as launched its first integrated campaign titled 'For All Things Worth <br> Saving'—an ecosystem of branded experiences aimed to <br> remind people of the inherent value of their digital files.</p>
+    </div> 
+    <div class="partners">
+        <h1>We would love to work with you and <br> your team</h1>
+        <li class="partners-read"><a href="#">Get in touch</a></li>
+    </div>
+    <footer>
+        <ul class="foooter-ul">
+            <li><a href="http://127.0.0.1:5500/index.html">HOME</a></li>
+            <li><a href="#">WHAT WE DO</a></li>
+            <li><a href="#">WHO WE ARE</a></li>
+            <li><a href="#">BEING HERE</a></li>
+            <li><a href="#">CARRERS</a></li>
+        </ul>
+    </footer>
+    
+</body>
+</html>
